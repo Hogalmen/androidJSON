@@ -1,10 +1,10 @@
 [
-{
-"navn":"Kai",
-"rase":"Labrador"
-},
-{
-"navn":"Roger",
-"rase":"Puddel"
-}
+  {
+    "navn":"Kai",
+    "rase":"Labrador"
+  },
+  {
+    "navn":"Roger",
+    "rase":"Puddel"
+  }
 ]
