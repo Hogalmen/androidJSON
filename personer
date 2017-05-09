@@ -14,5 +14,21 @@
     {
     "navn":"Per",
     "rase":"Puddel"
+  },
+   {
+    "navn":"Kai",
+    "rase":"Labrador"
+  },
+  {
+    "navn":"Daniel",
+    "rase":"Bulldog"
+  },
+  {
+    "navn":"Asdf",
+    "rase":"dsaf"
+  },
+    {
+    "navn":"Per",
+    "rase":"Puddel"
   }
 ]
