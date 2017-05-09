@@ -2,33 +2,37 @@
   {
     "navn":"Kai",
     "rase":"Labrador"
+    "lokasjon":
+    {
+    "latitude":59.132228,
+    "longitude":11.357018
+    }
   },
   {
     "navn":"Daniel",
     "rase":"Bulldog"
+     "lokasjon":
+    {
+    "latitude":59.127086,
+    "longitude":11.359754
+    }
   },
   {
     "navn":"Asdf",
     "rase":"dsaf"
+     "lokasjon":
+    {
+    "latitude":59.146347,
+    "longitude":11.231938
+    }
   },
     {
     "navn":"Per",
     "rase":"Puddel"
-  },
-   {
-    "navn":"Kai",
-    "rase":"Labrador"
-  },
-  {
-    "navn":"Daniel",
-    "rase":"Bulldog"
-  },
-  {
-    "navn":"Asdf",
-    "rase":"dsaf"
-  },
+     "lokasjon":
     {
-    "navn":"Per",
-    "rase":"Puddel"
+    "latitude":59.157537,
+    "longitude":11.231788
+    }
   }
 ]
