@@ -1,7 +1,7 @@
 [
   {
     "navn":"Kai",
-    "rase":"Labrador"
+    "rase":"Labrador",
     "lokasjon":
     {
     "latitude":59.132228,
@@ -10,7 +10,7 @@
   },
   {
     "navn":"Daniel",
-    "rase":"Bulldog"
+    "rase":"Bulldog",
      "lokasjon":
     {
     "latitude":59.127086,
@@ -19,7 +19,7 @@
   },
   {
     "navn":"Asdf",
-    "rase":"dsaf"
+    "rase":"dsaf",
      "lokasjon":
     {
     "latitude":59.146347,
@@ -28,7 +28,7 @@
   },
     {
     "navn":"Per",
-    "rase":"Puddel"
+    "rase":"Puddel",
      "lokasjon":
     {
     "latitude":59.157537,
