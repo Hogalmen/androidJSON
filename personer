@@ -43,5 +43,23 @@
     "latitude":59.129468,
     "longitude":11.350664
     }
+  },
+    {
+    "navn":"Petter",
+    "rase":"Belgisk fårehund",
+     "lokasjon":
+    {
+    "latitude":59.130839,
+    "longitude":11.352091
+    }
+  },
+    {
+    "navn":"Michael",
+    "rase":"Corgi",
+     "lokasjon":
+    {
+    "latitude":59.128390,
+    "longitude":11.356001
+    }
   }
 ]
