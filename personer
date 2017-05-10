@@ -34,5 +34,14 @@
     "latitude":59.157537,
     "longitude":11.231788
     }
+  },
+    {
+    "navn":"Thomas",
+    "rase":"Mops",
+     "lokasjon":
+    {
+    "latitude":59.129468,
+    "longitude":11.350664
+    }
   }
 ]
